@@ -1,2 +1,2 @@
 # git-tutorial1
-git tutorial 3
+this is a repo that i use when learning git
